@@ -1,7 +1,7 @@
 # MAU_ERD_modelling
 Melbourne Art Union (MAU) conceptual, logical and relational modelling for a SQL Relational Database Management System (RDBMS)
 
-## MAU brief / business rules
+## MAU project brief / business rules
 Melbourne Art Union (MAU) is a company that accepts artworks from artists and offers these artworks to galleries around the country for display and potential sale. The galleries display the artworks supplied by MAU as part of their exhibitions. A registered MAU customer may, while the artwork is being displayed, decide to purchase the item. MAU charges a standard percentage of the price at which the artwork is sold as their commission (note that this does not need to be recorded as part of the model). The gallery is paid a standard percentage of the sale price as its commission, this percentage is negotiated per gallery and so may vary from gallery to gallery (this gallery percentage must be recorded as part of the model). The remainder of the sale price goes to the artist.
 
 An artist will approach MAU to represent them. If MAU accepts the artist, they will be added to the MAU system before any artworks are accepted. MAU assigns an artist code to each artist that the company represents. MAU records the artist's name, contact address and telephone number (not all artists supply a telephone number). When an artist has completed an artwork that they wish to sell through MAU, they contact the company and offer the work to be sold by MAU. MAU maintains for each artist the number of works that MAU currently holds in stock for that artist. Sometimes, an artist recommends MAU as an agent to other artists who do not currently exhibit/sell through MAU. MAU wishes to record the fact that an artist may recommend other artists to join MAU.
