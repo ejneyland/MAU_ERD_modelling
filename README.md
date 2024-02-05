@@ -1,5 +1,7 @@
 # MAU_ERD_modelling
-Melbourne Art Union (MAU) conceptual, logical and relational modelling for a SQL Relational Database Management System (RDBMS)
+Melbourne Art Union (MAU) conceptual, logical and relational modelling for a SQL Relational Database Management System (RDBMS).
+SQL Relational Database Project (group, revised and updated as individual).
+Project completed using Lucid and Oracle SQL Developer.
 
 ## MAU project brief / business rules
 Melbourne Art Union (MAU) is a company that accepts artworks from artists and offers these artworks to galleries around the country for display and potential sale. The galleries display the artworks supplied by MAU as part of their exhibitions. A registered MAU customer may, while the artwork is being displayed, decide to purchase the item. MAU charges a standard percentage of the price at which the artwork is sold as their commission (note that this does not need to be recorded as part of the model). The gallery is paid a standard percentage of the sale price as its commission, this percentage is negotiated per gallery and so may vary from gallery to gallery (this gallery percentage must be recorded as part of the model). The remainder of the sale price goes to the artist.
