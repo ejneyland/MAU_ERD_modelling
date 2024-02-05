@@ -36,6 +36,10 @@ When an artwork from MAU stock is sold, the sale is assigned a unique sale ID. T
 
 ### MAU Conceptual Model
 
+*** The Conceptual Model followed different requirements, business rules and relation information given in 'part A' of this two-part task ***
+
+*** The below Conceptual model to be further revised, to better relate to the current v2 models, as changes were made between part A and B, and again since I personally revised Oracle SQL models. As shown in the updated Logical and Relational models below ***
+
 ![MAU Conceptual](mau_conceptual.png)
 
 ### MAU Logical Model
