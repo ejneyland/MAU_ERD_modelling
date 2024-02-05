@@ -1,7 +1,9 @@
 # MAU ERD Modelling
 Melbourne Art Union (MAU) conceptual, logical and relational modelling for a SQL Relational Database Management System (RDBMS).
-SQL Relational Database Project (group, revised and updated as individual).
-Project completed using Lucid and Oracle SQL Developer.
+
+SQL Relational Database Project (November 2023 Group project, REVISED February 2024 as Individual).
+
+Project completed using Lucid (conceptual) and Oracle SQL Developer (logical, relational, shema).
 
 Contents:
 - MAU project brief
